@@ -1,0 +1,61 @@
+ [
+        {
+            "name": "xiaomi note 4 pro",
+            "description": "2 bulan pakai",
+            "img": "https://image4.geekbuying.com/ggo_pic/2017-01-11/Xiaomi-Redmi-Note-4-Pro-Helio-X20-3GB-64GB-Smartphone---Black-394545-.jpg"
+        },
+	
+	 {
+            "name": "samsung ace 2",
+            "description": "5 bulan pakai",
+            "img": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Samsung_Galaxy_Ace2_i8160/Samsung_Galaxy_Ace2_i8160_L_1.jpg"
+        },
+	
+	{
+            "name": "asus m1",
+            "description": "3 bulan pakai",
+            "img": "https://sandroid.me/wp-content/uploads/2019/06/harga-asus-zenfone-max-m1.jpg"
+        },
+	
+	 {
+            "name": "samsung A3",
+            "description": "1 tahun pakai",
+            "img": "https://www.mobiledokan.co/wp-content/uploads/2018/12/Samsung-Galaxy-A3-2016.jpg"
+        },
+	
+	        {
+            "name": "xiaomi note 5",
+            "description": "7 bulan pakai",
+            "img": "https://www.gizmochina.com/wp-content/uploads/2017/11/xiaomi_redmi_note_5_1-600x600.jpg"
+        },
+	
+	 {
+            "name": "realme C2",
+            "description": "2 minggu pakai",
+            "img": "https://static.digit.in/product/thumb_130676_product_td_300.jpeg"
+        },
+	
+	{
+            "name": "samsung galaxy A10",
+            "description": "6 bulan pakai",
+            "img": "https://csmobiles.com/14317-large_default/samsung-galaxy-a10-32gb-dual-sim-blue.jpg"
+        },
+	
+	 {
+            "name": "Vivo Y91C",
+            "description": "2 hari pakai",
+            "img": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1553499177978/781f2fd67b031a66feffcb679b5e0e9d.png"
+        },
+
+	{
+            "name": "xiaomi note 3",
+            "description": "3 minggu pakai",
+            "img": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Xiaomi_Redmi_Note_3_Pro_/Xiaomi_Redmi_Note_3_Pro__L_1.jpg"
+        },
+	
+	 {
+            "name": "xiaomi redmi 3",
+            "description": "2 tahun pakai",
+            "img": "http://p.ipricegroup.com/uploaded_217873a2d10345f36b4b4489ad108cb9.jpg"
+        }
+]
